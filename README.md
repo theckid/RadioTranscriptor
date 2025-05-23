@@ -37,6 +37,13 @@ Transcribed results printed and saved to a daily log file
 ![image](https://github.com/user-attachments/assets/71a16d0d-2dc0-49b8-8919-8e2ff22ea611)
 
 -----------------
+Knows issues:
+Transcriber does not always capture voice and comes up blank in the logs
+Repeated words recorded
+
+
+
+-----------------
 💡 Customization Ideas
 Swap Whisper model size: "tiny", "base", "small", "medium", "large"
 
