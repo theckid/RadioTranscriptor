@@ -55,3 +55,6 @@ Huge thanks to ChatGPT (a.k.a. the whispering code goblin) for helping architect
 
 ![ChatGPT Image May 22, 2025, 10_14_34 PM](https://github.com/user-attachments/assets/4bde71ae-5f26-4431-b584-cdf119edcacc)
 
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE).
